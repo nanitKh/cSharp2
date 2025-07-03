@@ -1,0 +1,15 @@
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.AssemblyInfoInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.AssemblyInfo.cs
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.csproj.CoreCompileInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.sourcelink.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\bin\Debug\net9.0\StringMatching.exe
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\bin\Debug\net9.0\StringMatching.deps.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\bin\Debug\net9.0\StringMatching.runtimeconfig.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\bin\Debug\net9.0\StringMatching.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\bin\Debug\net9.0\StringMatching.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\refint\StringMatching.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\StringMatching.genruntimeconfig.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\StringMatching\obj\Debug\net9.0\ref\StringMatching.dll
