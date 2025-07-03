@@ -1,38 +1,15 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-using System;
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
 
-namespace LINQ
+
+var evenNumbers = from n in numbers
+                  where n % 2 == 0
+                  select n;
+
+foreach (var num in evenNumbers)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-            List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            
-            var evenNumbers = numbers.Where(n => n % 2 == 0);
-            Console.WriteLine("Even Numbers:");
-            foreach (var number in evenNumbers)
-            {
-                Console.WriteLine(number);
-            }
-            Console.ReadLine();
-        }
-    }
+    Console.WriteLine(num); 
 }
-
-
-/*
-int[] scores = [97, 92, 81, 60];
-
-IEnumerable<int> scoreQuery =
-    from score in scores
-    where score > 80
-    select score;
-
-foreach (var i in scoreQuery)
-{
-    Console.Write(i + " ");
-}
- */
