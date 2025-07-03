@@ -34,6 +34,5 @@ if (index != -1)
 }
 else
 {
-    Console.WriteLine("Mohit not found in the list.");
+    Console.WriteLine("Mohit not found in the list.")
 }
-
