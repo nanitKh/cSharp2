@@ -1,0 +1,15 @@
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\bin\Debug\net9.0\NumbersPlay.exe
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\bin\Debug\net9.0\NumbersPlay.deps.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\bin\Debug\net9.0\NumbersPlay.runtimeconfig.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\bin\Debug\net9.0\NumbersPlay.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\bin\Debug\net9.0\NumbersPlay.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.AssemblyInfoInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.AssemblyInfo.cs
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.csproj.CoreCompileInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.sourcelink.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\refint\NumbersPlay.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\NumbersPlay.genruntimeconfig.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\NumbersPlay\obj\Debug\net9.0\ref\NumbersPlay.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FirstHelloProgram/1.0.0": {
+        "runtime": {
+          "FirstHelloProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstHelloProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\bin\Debug\net9.0\FirstHelloProgram.exe
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\bin\Debug\net9.0\FirstHelloProgram.deps.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\bin\Debug\net9.0\FirstHelloProgram.runtimeconfig.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\bin\Debug\net9.0\FirstHelloProgram.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\bin\Debug\net9.0\FirstHelloProgram.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.AssemblyInfoInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.AssemblyInfo.cs
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.csproj.CoreCompileInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.sourcelink.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\refint\FirstHelloProgram.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\FirstHelloProgram.genruntimeconfig.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\FirstHelloProgram\obj\Debug\net9.0\ref\FirstHelloProgram.dll
