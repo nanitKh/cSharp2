@@ -1,0 +1,15 @@
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.AssemblyInfoInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.AssemblyInfo.cs
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.csproj.CoreCompileInputs.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.sourcelink.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\bin\Debug\net9.0\ClassesObjects.exe
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\bin\Debug\net9.0\ClassesObjects.deps.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\bin\Debug\net9.0\ClassesObjects.runtimeconfig.json
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\bin\Debug\net9.0\ClassesObjects.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\bin\Debug\net9.0\ClassesObjects.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\refint\ClassesObjects.dll
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.pdb
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ClassesObjects.genruntimeconfig.cache
+C:\Users\nanit.khanna\source\repos\nanitKh\cSharp2\OOPS\ClassesObjects\obj\Debug\net9.0\ref\ClassesObjects.dll
